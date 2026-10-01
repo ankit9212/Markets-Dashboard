@@ -1,9 +1,10 @@
-yfinance
-pandas
-numpy
-matplotlib
-plotly
-ipywidgets
-voila
-pandas-datareader
-requests
+   yfinance
+   pandas<2.2
+   numpy<2
+   matplotlib
+   plotly
+   ipywidgets
+   voila
+   pandas-datareader
+   requests
+   openpyxl
